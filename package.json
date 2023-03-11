@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "codeial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "ayush",
+  "license": "ISC",
+  "description": ""
+}
